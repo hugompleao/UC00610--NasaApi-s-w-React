@@ -1,0 +1,72 @@
+/* Geral */
+.isLoading{
+    color: rgb(248, 229, 192);
+}
+
+/* APOD */
+.apod_Form{
+    color: rgb(102, 155, 188) !important;
+}
+
+.apod_About{
+    color: rgb(248, 229, 192) !important;
+}
+
+.apod_Date{
+    color: rgb(102, 155, 188) !important;
+}
+
+/* ASTEROIDS */
+.asteroid_Table thead th {
+  background: rgba(110, 110, 110, 0.1) !important; 
+  color: rgb(102, 155, 188) !important; 
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 15px !important;
+}
+
+.asteroid_Table tbody td {
+  padding: 15px !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+  vertical-align: middle;
+}
+
+/*EONET*/
+.eonet_Text{
+  color: rgb(255, 247, 231) !important; 
+}
+
+.eonet_Category, .eonet_Local{
+    color: rgb(102, 155, 188); 
+}
+
+/*NasaLib*/
+.nasaLib_Bio{
+  color: rgb(255, 247, 231) !important; 
+}
+
+.nasaLib_Text{
+    color: rgb(102, 155, 188) !important; 
+}
+
+.nasaLib_btnPesquisar{
+    color: rgb(102, 155, 188) !important; 
+}
+
+/*EPIC*/
+.epic_Bio, .epic_Caption{
+  color: rgb(255, 247, 231) !important; 
+}
+
+.epic_Details{
+    color: rgb(102, 155, 188) !important; 
+}
+
+/*Mars Photos*/
+.mars_CapInfo{
+    color: rgb(102, 155, 188) !important; 
+}
+
+
+
+
